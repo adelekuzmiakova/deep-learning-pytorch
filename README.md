@@ -34,7 +34,7 @@ $ pip3 install virtualenv
 ### 3) Usage
 Creation of virtualenv:
 ```bash
-$ virtualenv -p python3.5 <desired-path>
+$ virtualenv -p python3.5 [desired-path]
 ```
 e.g.
 
@@ -44,7 +44,7 @@ $ virtualenv -p python3.5 .env
 
 Activate the virtualenv:
 ```bash
-$ source <desired-path>/bin/activate
+$ source [desired-path]/bin/activate
 ```
 
 e.g.
