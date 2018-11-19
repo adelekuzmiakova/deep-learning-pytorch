@@ -6,3 +6,11 @@
 * **Part 6:** How to save and load trained models
 * **Part 7:** Load image data with torchvision, also data augmentation
 * **Part 8:** Use transfer learning to train a state-of-the-art image classifier for dogs and cats
+
+
+Note: Sometimes it takes a while to load a Jupyter notebook file. A quick fix is to convert a .ipynb file to a .pdf:
+
+```bash
+$ ipython nbconvert --to html [notebook-name].ipynb  
+```
+
