@@ -14,3 +14,4 @@ Note: Sometimes it takes a while to load a Jupyter notebook file. A quick fix is
 $ ipython nbconvert --to html [notebook-name].ipynb  
 ```
 
+Then open the .html file with your favorite browser and save it as a .pdf.
