@@ -7,7 +7,7 @@ $ git clone git@github.com:adelekuzmiakova/deep-learning-pytorch.git
 and `cd` into it.
 
 
-# Install PyTorch with Python3 Virtualenv Setup
+## Install PyTorch with Python3 Virtualenv Setup
 
 A [Virtualenv](https://virtualenv.pypa.io/en/stable/) is a tool to keep the dependencies required by different projects in separate places by creating virtual Python environments for them. It solves the “Project X depends on PyTorch version 0.x but Project Y needs 1.x” dilemma and keeps your global site-packages directory clean and manageable.
  
