@@ -25,3 +25,5 @@ Then open the .html file with your favorite browser and save it as a .pdf.
  * **[NN-SVG](http://alexlenail.me/NN-SVG/index.html):** Publication-ready NN-architecture schematics
  * **[Lucidchart](https://www.lucidchart.com/):** Diagrams and flowcharts
  * Adobe Illustrator, PowerPoint, OneNote
+
+Many thanks to Christian Rivera Flores, Emilio Nájera, Calincan Mircea Ioan, Dylan Goh, and Abhilash for their suggestions. 
