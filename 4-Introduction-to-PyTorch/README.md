@@ -9,15 +9,18 @@
 * **Part 7:** Load image data with torchvision, also data augmentation
 * **Part 8:** Use transfer learning to train a state-of-the-art image classifier for dogs and cats
 
-
+&nbsp;  
 Note: Sometimes it takes a while to load a Jupyter notebook file. A quick fix is to convert a .ipynb file to a .pdf:
 
 ```bash
 $ ipython nbconvert --to html [notebook-name].ipynb  
 ```
-
-Then open the .html file with your favorite browser and save it as a .pdf.
-
+Then open the .html file with your favorite browser and save it as a .pdf.  
+ 
+&nbsp; 
 ## How to draw neural networks:
 
-<img src="assets/mlp_mnist.png" width="450">
+<img src="assets/mlp_mnist.png" width="600">
+ 
+ * **[NN-SVG](http://alexlenail.me/NN-SVG/index.html):** Publication-ready NN-architecture schematics
+ * **[Lucidchart](https://www.lucidchart.com/):** Diagrams and flowcharts
