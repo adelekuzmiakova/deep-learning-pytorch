@@ -20,3 +20,4 @@ Then open the .html file with your favorite browser and save it as a .pdf.
 
 ## How to draw neural networks:
 
+<img src="assets/mlp_mnist.png" width="450">
