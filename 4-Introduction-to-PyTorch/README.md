@@ -1,3 +1,5 @@
+## Contents:
+
 * **Part 1:** Introduction to PyTorch and using tensors
 * **Part 2:** Building fully-connected neural networks with PyTorch
 * **Part 3:** How to train a fully-connected network with backpropagation on MNIST
@@ -15,3 +17,6 @@ $ ipython nbconvert --to html [notebook-name].ipynb
 ```
 
 Then open the .html file with your favorite browser and save it as a .pdf.
+
+## How to draw neural networks:
+
