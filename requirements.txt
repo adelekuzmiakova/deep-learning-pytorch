@@ -1,0 +1,6 @@
+torch
+torchvision
+jupyter
+matplotlib
+opencv-python==3.4.0.12
+seaborn
