@@ -56,8 +56,7 @@ $ source .env/bin/activate
 Within the virtualenv you can install project-specific packages:
 
 ```bash
-$ pip3 install opencv-python==3.4.0.12
-$ pip3 install torch torchvision
+$ pip3 install -r requirements.txt
 ```
 
 When you are done working on your project, deactivate the virtualenv:
